@@ -1,0 +1,17 @@
+{
+    "name": "Brawl Collect",
+    "short_name": "BC",
+    "description": "Collect Brawl cards, open packs, complete quests, and build your ultimate collection.",
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "landscape",
+    "background_color": "#061326",
+    "theme_color": "#0b3b82",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
