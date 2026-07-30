@@ -1,4 +1,4 @@
-# 🃏 Brawl Collect
+
 
 A mobile-friendly collectible card game inspired by sticker albums.
 
@@ -35,8 +35,8 @@ Example cards:
 
 🔥 Nori  
 🌪️ Wendy  
-⚡ Volt  
-🌑 Shadow  
+⚡ Bolt  
+🌑 Kenji 
 
 ---
 
