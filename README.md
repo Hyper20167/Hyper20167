@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🃏 Brawl Collect
 
-<!--
-**Hyper20167/Hyper20167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A mobile-friendly collectible card game inspired by sticker albums.
 
-Here are some ideas to get you started:
+Collect brawler cards, open packs, discover rarities, complete quests, and build your ultimate collection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 Features
+
+⭐ Card collection system  
+🎁 Pack opening system  
+📖 Collection book  
+🎯 Daily quests  
+🔄 Trading system design  
+🏆 Rarity levels  
+📱 Mobile app style  
+↻ Landscape phone mode  
+⚡ Installable PWA  
+🌐 Works offline with service worker  
+
+---
+
+## 🃏 Cards
+
+Brawl Collect includes different rarity levels:
+
+- ⚪ Common
+- 🔵 Rare
+- 🟣 Epic
+- 🟡 Legendary
+- 🔴 Mythic
+
+Example cards:
+
+🔥 Nori  
+🌪️ Wendy  
+⚡ Volt  
+🌑 Shadow  
+
+---
+
+## 📱 App Installation
+
+1. Open the website on your phone.
+2. Press "Add to Home Screen".
+3. Open Brawl Collect like a normal app.
+
+---
+
+## 📂 Project Files
