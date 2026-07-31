@@ -1,51 +1,24 @@
 
+# 🃏 Brawl Collect
 
-A mobile-friendly collectible card game inspired by sticker albums.
 
-Collect brawler cards, open packs, discover rarities, complete quests, and build your ultimate collection.
+Brawl Collect is a digital collectible sticker album inspired by classic sticker collecting experiences.
 
----
-
-## 🎮 Features
-
-⭐ Card collection system  
-🎁 Pack opening system  
-📖 Collection book  
-🎯 Daily quests  
-🔄 Trading system design  
-🏆 Rarity levels  
-📱 Mobile app style  
-↻ Landscape phone mode  
-⚡ Installable PWA  
-🌐 Works offline with service worker  
+Collect Brawlers, open packs, complete album pages, and build the ultimate collection.
 
 ---
 
-## 🃏 Cards
+# ⭐ Features
 
-Brawl Collect includes different rarity levels:
+## 📖 Digital Album
 
-- ⚪ Common
-- 🔵 Rare
-- 🟣 Epic
-- 🟡 Legendary
-- 🔴 Mythic
+Complete your Brawler album with:
 
-Example cards:
+- Intro section
+- Rare Brawlers
+- Super Rare Brawlers
+- Epic Brawlers
+- Mythic Brawlers
+- Legendary Brawlers
 
-🔥 Nori  
-🌪️ Wendy  
-⚡ Bolt  
-🌑 Kenji 
-
----
-
-## 📱 App Installation
-
-1. Open the website on your phone.
-2. Press "Add to Home Screen".
-3. Open Brawl Collect like a normal app.
-
----
-
-## 📂 Project Files
+Total Collection:
