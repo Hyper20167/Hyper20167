@@ -1,4 +1,4 @@
-const CACHE_NAME = "brawl-collect-v1";
+const CACHE_NAME = "brawl-collect-v2";
 
 const FILES_TO_CACHE = [
     "index.html",
