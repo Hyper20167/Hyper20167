@@ -1,5 +1,4 @@
-
-# 🃏 Brawl Collect
+🃏 Brawl Collect
 
 
 Brawl Collect is a digital collectible sticker album inspired by classic sticker collecting experiences.
@@ -8,9 +7,9 @@ Collect Brawlers, open packs, complete album pages, and build the ultimate colle
 
 ---
 
-# ⭐ Features
+⭐ Features
 
-## 📖 Digital Album
+📖 Digital Album
 
 Complete your Brawler album with:
 
