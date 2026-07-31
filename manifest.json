@@ -1,13 +1,20 @@
+
 {
-    "name": "Brawl Collect",
+    "name": "Brawl Collect - The Complete Brawler Album",
     "short_name": "BC",
-    "description": "Collect Brawl cards, open packs, complete quests, and build your ultimate collection.",
+    "description": "Collect Brawlers, open packs, and complete your digital sticker album.",
     "start_url": "index.html",
     "display": "standalone",
     "orientation": "landscape",
-    "background_color": "#061326",
-    "theme_color": "#0b3b82",
+    "background_color": "#f7c843",
+    "theme_color": "#f7c843",
+
     "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
         {
             "src": "favicon.png",
             "sizes": "512x512",
